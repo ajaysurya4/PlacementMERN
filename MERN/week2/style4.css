@@ -1,0 +1,10 @@
+.sub-button{
+
+    background-color: rgb(230, 20, 20);
+    color: white;
+    border-radius: 30px;
+    height: 30px;
+    width: 95px;
+    margin-left: 20px;
+    cursor: pointer;
+}  
